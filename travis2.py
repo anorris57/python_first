@@ -6,6 +6,8 @@ while True:
     name = input("What is your name?: ").strip().capitalize()
 
     if name in known_users:
-        print("name recognised")
+        string = "Hi {}"
+        output = string.format(name)
+        print(output)
     else:
         print("name NOT recognised")
