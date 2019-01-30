@@ -12,4 +12,4 @@ Besides lists the following are used:
   using remove command (remove element from list)
   using append command (add element to list)
 
-This is simple of example of how a data base may be manipulated.
+This is simple example of how a data base may be manipulated.
